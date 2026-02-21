@@ -23,4 +23,8 @@
     <PackageReference Include="TimeZoneConverter" Version="6.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
 </Project>
